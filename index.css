@@ -1,0 +1,142 @@
+* {
+  margin: 0px;
+}
+
+#body {
+  background: #5089c6;
+}
+
+#header {
+  background-color: #006491;
+  height: 70px;
+}
+h1 {
+  color: white;
+}
+#title {
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+#brand {
+  width: 30%;
+  float: left;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+}
+#menu {
+  width: 70%;
+  float: right;
+  height: 70px;
+  line-height: 70px;
+}
+#main-s {
+  height: 350px;
+  padding-bottom: 0px;
+  padding-top: 50px;
+  padding-left: 520px;
+  padding-right: 100px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-seafood-vegetable-pizza-gourmet-background-poster-image_214182.jpg);
+  background-color: white;
+}
+#G2 {
+  color: #5089c6;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+#ord-b {
+  background-color: yellowgreen;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+#G1 {
+  margin-top: 50px;
+}
+
+#ab-1 {
+  float: left;
+  width: 40%;
+}
+#ab-2 {
+  float: right;
+  width: 60%;
+  margin-top: 50px;
+}
+
+#img-1 {
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-top: 45px;
+  margin-bottom: 100px;
+}
+#Our {
+  margin-top: 20px;
+}
+#story {
+  margin-top: 20px;
+}
+#footer {
+  padding-bottom: 0px;
+  margin: 0px;
+  background-color: red;
+}
+#W1 {
+  color: rgb(236, 236, 236);
+}
+#M1 {
+  padding-right: 0px;
+}
+#T1 {
+  text-align: center;
+}
+
+.ABOUT-END {
+  margin: 0px;
+  min-width: 0px;
+  text-align: center;
+  width: 100%;
+  padding-right: 120px;
+}
+.ABOUT-END th {
+  font: 1.5em sans-serif;
+}
+
+.ABOUT-END th,
+.ABOUT-END td {
+  padding: 300px, 300px;
+}
+
+#ABT-1 {
+  width: 30%;
+  float: left;
+}
+#ABT-2 {
+  width: 55%;
+  float: right;
+  margin-top: 50px;
+  margin-right: 50px;
+  font-size: 1.2em;
+}
+#img1 {
+  border-radius: 20px;
+  margin-left: 30px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+
+#footer {
+  background: black;
+  padding: 50px;
+  color: cornsilk;
+  margin-top: 600px;
+}

@@ -1,0 +1,19 @@
+#menu-h1 {
+  padding-top: 300px;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190622/ourmid/pngtree-seafood-vegetable-pizza-gourmet-background-poster-image_214182.jpg);
+}
+#M1 {
+  text-align: center;
+  font-size: 1.6em;
+  color: white;
+}
+#imgm1 {
+  border-radius: 20px;
+  width: 330px;
+  height: 330px;
+}
+#home1 {
+  font-size: 1.9em;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
