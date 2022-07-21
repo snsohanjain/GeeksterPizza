@@ -1,2 +1,2 @@
 # GeeksterPizza
-<imgs src:"https://im.ge/i/FSnkOq"/>
+<img src:"https://im.ge/i/FSnkOq"/>
